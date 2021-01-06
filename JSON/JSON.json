@@ -1,0 +1,14 @@
+{
+    "user": {
+        "name": "Alfonso",
+        "location": {
+            "city": "Mexico",
+            "state": "MX"
+        },
+        "roles": [
+            "admin",
+            "user",
+            "Team Lead"
+        ]
+    }
+}
